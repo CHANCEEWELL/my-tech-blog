@@ -56,4 +56,3 @@ THEN I am automatically signed out of the site
 
 # Deployment Link
 
-https://mighty-hamlet-25206.herokuapp.com/
